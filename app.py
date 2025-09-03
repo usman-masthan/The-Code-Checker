@@ -1,4 +1,4 @@
-def get_greeting():
+def get_greeting()
     """Returns a simple greeting."""
     return "Hello, CI/CD World!"
 
